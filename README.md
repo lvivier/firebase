@@ -2,6 +2,8 @@
 
 Use [Firebase](https://firebase.com/) with [component](http://github.com/component/component).
 
+> **HEY!** [Component is not maintained anymore](https://github.com/componentjs/component/issues/639) and neither is this module!
+
 Loads Firebase and FirebaseSimpleLogin asynchronously, then calls back:
 
 ```js
